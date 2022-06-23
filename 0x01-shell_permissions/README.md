@@ -1,0 +1,1 @@
+Entery to shell permissions
